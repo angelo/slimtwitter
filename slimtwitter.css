@@ -1,0 +1,18 @@
+hr,
+.footer,
+.promo,
+#top-stuff,
+.your-activity,
+.tweet-activity,
+.trends-inner,
+div.user-rec-inner {
+  display: none;
+}
+
+.component {
+  margin: 0;
+}
+
+#page-outer {
+  padding-top: 20px;
+}
