@@ -16,3 +16,50 @@ div.user-rec-inner {
 #page-outer {
   padding-top: 20px;
 }
+
+/* homepage */
+
+body#front {
+  background: #246;
+}
+
+#topnav {
+  width: auto;
+  position: static;
+  text-align: left;
+}
+
+#signin-c {
+  display: block;
+  position: static;
+}
+
+#signin_menu {
+  left: auto;
+  position: static;
+  margin: 80px auto;
+}
+
+#signin_controls {
+  top: auto;
+  position: static;
+  background: ;
+}
+
+.background .inner {
+  position: static;
+}
+
+.background {
+  background: none;
+}
+
+#logo-search,
+#have_an_account,
+.overlay,
+#trends,
+#accessibility,
+.content-wrapper .homepage,
+.footer-wrapper {
+  display: none;
+}
