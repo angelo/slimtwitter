@@ -11,6 +11,7 @@ hr,
 .stream-tab-mentions,
 .stream-tab-retweets,
 .stream-tab-searches,
+.stream-tab-lists,
 .dashboard {
   display: none;
 }
