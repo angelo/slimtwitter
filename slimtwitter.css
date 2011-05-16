@@ -11,7 +11,7 @@ hr,
 .stream-tab-mentions,
 .stream-tab-retweets,
 .stream-tab-searches,
-div.user-rec-inner {
+.dashboard {
   display: none;
 }
 
