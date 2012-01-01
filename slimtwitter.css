@@ -1,79 +1,8 @@
-hr,
-.footer,
-.promo,
-#top-stuff,
-.your-activity,
-.tweet-activity,
-.trends-inner,
-.geo-control,
-.tweet-box-title,
-.stream-tab-home,
-.stream-tab-mentions,
-.stream-tab-retweets,
-.stream-tab-searches,
-div.user-rec-inner {
+.global-nav .topics, .dashboard, .promoted-tweet, .content-header h2, .content-header .header-inner {
   display: none;
 }
 
-.main-tweet-box {
-  padding: 20px 0 0 0;
-}
-
-.component {
-  margin: 0;
-}
-
-#page-outer {
-  padding-top: 20px !important;
-}
-
-.tweet-button-container {
-  padding: 0;
-  margin: 0 0 -20px 0;
-}
-
-/* homepage tweaks */
-
-body#front {
-  background: #246;
-}
-
-#topnav {
+.content-main {
+  float: none;
   width: auto;
-  position: static;
-  text-align: left;
-}
-
-#signin-c {
-  display: block;
-  position: static;
-}
-
-#signin_menu {
-  left: auto;
-  position: static;
-  margin: 80px auto;
-}
-
-#signin_controls {
-  top: auto;
-  position: static;
-}
-
-.background .inner {
-  position: static;
-}
-
-.background {
-  background: none;
-}
-
-#logo-search,
-#have_an_account,
-.overlay,
-#trends,
-#accessibility,
-.content-wrapper .homepage,
-.footer-wrapper {
-  display: none;
 }
