@@ -1,8 +1,12 @@
-.global-nav .topics, .dashboard, .promoted-tweet, .content-header h2, .content-header .header-inner {
+.topbar, .wtf-module.has-content, .trends, .site-footer {
   display: none;
 }
 
-.content-main {
-  float: none;
+.wrapper {
   width: auto;
+  padding: 14px;
+}
+
+.content-main, .dashboard {
+  width: 100%;
 }
