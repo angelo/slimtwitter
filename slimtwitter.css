@@ -1,12 +1,17 @@
-.topbar, .wtf-module.has-content, .trends, .site-footer {
+.topbar, .dashboard {
   display: none;
 }
-
 .wrapper {
   width: auto;
-  padding: 14px;
 }
-
-.content-main, .dashboard {
-  width: 100%;
+.content-main {
+  width: auto;
+  float: none;
+}
+.AppContent {
+  padding: 8px;
+}
+.modal {
+  position: static;
+  margin: 40px auto;
 }
